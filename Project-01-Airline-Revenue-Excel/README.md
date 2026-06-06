@@ -6,6 +6,7 @@
 Which routes and ticket classes generate the most revenue for an airline?
 
 ## Dataset
+Download from: https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
 - Source: Kaggle — Airline Dataset
 - Rows: 98,619 passengers
 - Columns added: Ticket Class, Ticket Price, Revenue, Route
