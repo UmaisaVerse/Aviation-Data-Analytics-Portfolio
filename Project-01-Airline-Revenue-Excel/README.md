@@ -11,6 +11,9 @@ Download from: https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
 - Rows: 98,619 passengers
 - Columns added: Ticket Class, Ticket Price, Revenue, Route
 
+## Files
+- [Download Excel File](https://docs.google.com/spreadsheets/d/1YTrlfPaCwn_v4pDC77SCTkp2SvDVIzH2/edit?usp=drive_link&ouid=108924623593357727770&rtpof=true&sd=true)
+- 
 ## Key Findings
 1. Top revenue route: Böblingen Flugfeld → PHM at $24,600
 2. First Class avg ticket price: $1,200 | Business: $600 | Economy: $200
@@ -19,6 +22,6 @@ Download from: https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
 
 ## Skills Used
 - Pivot Tables
-- VLOOKUP, IF, MOD, COUNTIF formulas
+- IF, MOD, COUNTIF formulas
 - Data cleaning
 - Bar and Pie charts
