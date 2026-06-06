@@ -13,7 +13,7 @@ Download from: https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
 
 ## Files
 - [Download Excel File](https://docs.google.com/spreadsheets/d/1YTrlfPaCwn_v4pDC77SCTkp2SvDVIzH2/edit?usp=drive_link&ouid=108924623593357727770&rtpof=true&sd=true)
-- 
+
 ## Key Findings
 1. Top revenue route: Böblingen Flugfeld → PHM at $24,600
 2. First Class avg ticket price: $1,200 | Business: $600 | Economy: $200
