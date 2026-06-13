@@ -11,3 +11,6 @@ Identify profitable and unprofitable airline routes after factoring in fuel, sta
 - Least Profitable Route: Falcon State Airport (US) → FAL
 - Fuel = 50% of all operating costs
 - Long Haul generates 2.5x more profit per flight
+
+## File
+https://docs.google.com/spreadsheets/d/12vgOtgqOwoOUOzJ4XbJXYuMUM98TxEWj/edit?usp=sharing&ouid=108924623593357727770&rtpof=true&sd=true
