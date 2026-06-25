@@ -1,0 +1,23 @@
+# Project 04 — IndiGo Airlines Business Health Analysis ✈️
+
+## Overview
+Analysis of 50,000 IndiGo Airlines booking records to evaluate business 
+health across revenue, customer behaviour, and booking patterns.
+
+## Tools Used
+- MySQL — data querying and analysis
+- Excel — data cleaning, pivot tables, and dashboard
+
+## Dataset
+50,000 customer booking records including seat class, booking channel, 
+add-ons, flight day, and booking completion status.
+
+## Key Findings
+1. Only 14.88% of bookings are completed — 85.12% are abandoned
+2. Business class generates 41.88% of total revenue
+3. 88.6% of bookings come via Internet — Mobile is underutilised at 11.2%
+4. Weekend flyers pay 17% more than weekday flyers
+5. Customers with all 3 add-ons generate 150% more revenue
+## Files
+- indigo_clean.csv — cleaned dataset
+- Indigo_Airlines_Analysis.xlsx — Excel workbook with dashboard
