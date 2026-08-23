@@ -1,3 +1,4 @@
+![Airport Traffic Dashboard](dashboard_preview.png)
 # Airport Traffic Dashboard (Power BI)
 
 ## Problem
